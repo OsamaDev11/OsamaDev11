@@ -75,16 +75,24 @@ This project demonstrates my ability to build a real-world Flutter app with orga
 
 ---
 
-### 🎬 Video Crop & Compression App
+### 🎬 Crop & Compress Media App
 
-A Flutter app focused on video cropping and compression features for mobile users.
+A Flutter media processing application that allows users to crop and compress photos and videos, preview edited media, save processed files, share them, and manage them inside a local media library.
+
+This project demonstrates my ability to work with image and video processing, local storage, media preview, sharing, localization, and organized Flutter app structure.
+
+**Tech Stack:** Flutter, Dart, Bloc/Cubit, Hive, SharedPreferences, FFmpeg, Video Compress, Image Compression, Localization
 
 **Key Features:**
+- Image cropping and compression
+- Video cropping and compression
+- Media preview
+- Local media library
+- Save and share processed files
+- Arabic/English localization
+- Feature-based project structure
 
-* Select and process videos
-* Crop video content
-* Compress video size
-* Improve media handling experience
+[View Repository](https://github.com/OsamaDev11/crop_and_compress_media) | [Watch Demo](https://github.com/OsamaDev11/crop_and_compress_media/releases/tag/demo-v1)
 
 ---
 
