@@ -70,7 +70,7 @@ This project demonstrates my ability to build a real-world Flutter app with orga
 * Arabic/English localization
 * API-based media assets
 
-[View Repository](PUT_REPOSITORY_LINK_HERE) | [Watch Demo](PUT_DEMO_LINK_HERE)
+[View Repository](https://github.com/OsamaDev11/photo_editor) | [Watch Demo](PUT_DEMO_LINK_HERE)
 
 
 ---
