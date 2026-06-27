@@ -54,15 +54,24 @@ I enjoy turning ideas into clean, functional, and user-friendly mobile apps. My 
 
 ### 🖼️ Photo Editor App
 
-A Flutter mobile application for editing photos with text, frames, stickers, filters, and image customization tools.
+A complete Flutter photo editing application that allows users to select images, crop them, apply filters and visual effects, add text layers, stickers, frames, and save edited projects locally.
+
+This project demonstrates my ability to build a real-world Flutter app with organized structure, interactive UI tools, local storage, localization, API-based assets, and media handling.
+
+**Tech Stack:** Flutter, Dart, Bloc/Cubit, Dio, Local Storage, Localization, Image Picker
 
 **Key Features:**
 
-* Add and edit text over images
-* Apply frames and visual effects
-* Use stickers and design elements
-* Customize image appearance
-* Focus on smooth mobile user experience
+* Image selection and cropping
+* Text layers over images
+* Stickers, frames, and design elements
+* Filters and visual adjustments
+* Saved projects
+* Arabic/English localization
+* API-based media assets
+
+[View Repository](PUT_REPOSITORY_LINK_HERE) | [Watch Demo](PUT_DEMO_LINK_HERE)
+
 
 ---
 
