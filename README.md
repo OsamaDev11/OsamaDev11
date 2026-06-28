@@ -2,7 +2,7 @@
 
 I'm a **Junior Flutter Developer** with a background in **Software and Databases**, focused on building complete mobile applications using **Flutter** and **Dart**.
 
-I enjoy turning ideas into clean, functional, and user-friendly mobile apps. My current focus is improving my Flutter skills, building stronger real-world projects, and preparing my portfolio for local, remote, and freelance opportunities.
+I enjoy turning ideas into clean, functional, and user-friendly mobile apps. My current focus is improving my Flutter skills, building stronger real-world projects, documenting my work professionally, and preparing my portfolio for local, remote, and freelance opportunities.
 
 ---
 
@@ -23,15 +23,27 @@ I enjoy turning ideas into clean, functional, and user-friendly mobile apps. My 
 
 * Flutter
 * Dart
+* Android Development
+* Mobile Application Development
 * Responsive UI
 * UI Implementation
 
-**Backend & Data**
+**State Management**
+
+* Bloc
+* Cubit
+* State Management
+
+**Backend, APIs & Data**
 
 * REST APIs
+* Dio
 * Firebase
 * Local Storage
-* Databases Fundamentals
+* Hive
+* SharedPreferences
+* SQLite Fundamentals
+* Database Fundamentals
 
 **Tools**
 
@@ -43,10 +55,11 @@ I enjoy turning ideas into clean, functional, and user-friendly mobile apps. My 
 **Currently Improving**
 
 * Clean Architecture
-* State Management
 * Performance Optimization
 * Testing
 * App Deployment
+* Better error handling
+* Production-ready project structure
 
 ---
 
@@ -69,9 +82,9 @@ This project demonstrates my ability to build a real-world Flutter app with orga
 * Saved projects
 * Arabic/English localization
 * API-based media assets
+* Screenshots, short demo video, and demo APK
 
 [View Repository](https://github.com/OsamaDev11/photo_editor) | [Watch Demo](https://github.com/OsamaDev11/photo_editor/releases/tag/demo-v1)
-
 
 ---
 
@@ -84,50 +97,80 @@ This project demonstrates my ability to work with image and video processing, lo
 **Tech Stack:** Flutter, Dart, Bloc/Cubit, Hive, SharedPreferences, FFmpeg, Video Compress, Image Compression, Localization
 
 **Key Features:**
-- Image cropping and compression
-- Video cropping and compression
-- Media preview
-- Local media library
-- Save and share processed files
-- Arabic/English localization
-- Feature-based project structure
+
+* Image cropping and compression
+* Video cropping and compression
+* Media preview
+* Local media library
+* Save and share processed files
+* Arabic/English localization
+* Feature-based project structure
+* Screenshots, short demo video, and demo APK
 
 [View Repository](https://github.com/OsamaDev11/crop_and_compress_media) | [Watch Demo](https://github.com/OsamaDev11/crop_and_compress_media/releases/tag/demo-v1)
 
 ---
 
+## 📂 Additional Projects
+
 ### 📅 Age Calculator App
 
-A simple and useful Flutter application for calculating age and date-related information.
+A Flutter utility application for calculating age using Gregorian and Hijri calendars, converting dates, saving people records, and displaying age-related information.
+
+This project demonstrates my ability to build a complete utility app with state management, local storage, localization, reusable UI components, and organized Flutter project structure.
+
+**Tech Stack:** Flutter, Dart, Bloc/Cubit, Hive, SharedPreferences, Dio, Retrofit, Localization
 
 **Key Features:**
 
-* Calculate age based on date of birth
-* Simple and clean interface
-* Practical daily-use functionality
+* Gregorian and Hijri age calculation
+* Date conversion
+* Age result details
+* Saved people board
+* Age facts and life journey tips
+* Arabic/English localization
+* Local storage
+* Screenshots, short demo video, and demo APK
+
+[View Repository](https://github.com/OsamaDev11/age_calculator_app) | [Watch Demo](https://github.com/OsamaDev11/age_calculator_app/releases/tag/demo-v1)
 
 ---
 
-### 📱 Halat App
+### 💬 Halat App
 
-A Flutter application project focused on displaying and managing status-style content.
+A Flutter status application for browsing, searching, saving, and sharing picture and word statuses, with favorites, localization, theme support, and API-based content.
+
+This project demonstrates my ability to build a content-based Flutter app with API integration, state management, search, favorites, localization, theme handling, and media sharing features.
+
+**Tech Stack:** Flutter, Dart, Bloc/Cubit, Dio, API Integration, SharedPreferences, Localization, Theme Support
 
 **Key Features:**
 
-* Mobile-first interface
-* Organized content display
-* User-friendly app experience
+* Browse picture status categories
+* Browse word statuses
+* Search for pictures and words
+* Search history support
+* Favorites for pictures and words
+* Copy and share text statuses
+* Save and share picture statuses
+* Arabic/English localization
+* Light/Dark theme support
+* Screenshots, short demo video, and demo APK
+
+[View Repository](https://github.com/OsamaDev11/halat) | [Watch Demo](https://github.com/OsamaDev11/halat/releases/tag/demo-v1)
 
 ---
 
 ## 📈 My Current Goal
 
-I'm currently working on improving my portfolio, documenting my Flutter projects, and preparing myself for real-world job opportunities as a **Junior Flutter Developer**.
+I'm currently improving my Flutter portfolio, documenting my projects professionally, and preparing myself for real-world opportunities as a **Junior Flutter Developer**.
+
+My focus is to keep building complete mobile applications, improve code quality, strengthen my understanding of architecture and state management, and become ready for junior, internship, remote, and freelance Flutter opportunities.
 
 ---
 
 ## 📫 Contact
 
 * GitHub: [OsamaDev11](https://github.com/OsamaDev11)
-* Email: osamaelshareef621@gmail.com
-* LinkedIn: Coming soon
+* LinkedIn: [osama-elshareef](https://www.linkedin.com/in/osama-elshareef/)
+* Email: [osamaelshareef621@gmail.com](mailto:osamaelshareef621@gmail.com)
